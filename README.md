@@ -6,6 +6,8 @@ The process onvolves two steps.
 - First, localize the faces in an image using different techniques like Haar Cascades or dlib frontal face detector.
 - Apply the shape predictor(facial landmark detector)  to obtain the coordinates of Region of Interest(ROI) in the face.
 
+[Here](https://github.com/raghu826/Facial_Landmark_Detection/blob/main/images/image_output.JPG) you can see the 68 landmarks all over the face with a bounding box
+
 There are various applications of Facial Landmark detection namely
 - Blink detection
 - Head Pose estimation
